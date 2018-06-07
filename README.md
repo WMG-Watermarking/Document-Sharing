@@ -1,5 +1,5 @@
 # Document-Sharing
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](聊天室 URL)
+[![Join the chat at https://gitter.im/jstriebel/badges](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jstriebel/badges)
 
 During the survey, if you have any document to share, please put it here.<br /> 
 
